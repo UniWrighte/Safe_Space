@@ -11,6 +11,8 @@ run start.sh:
 
 	/path/to/Safe_Space/start.sh
 
+ press CTRL + C
+
 This will display some debugging/development information on your console. You can exit out of the console and it will run in the background.
 
 You can open Cheese or any video app to test if it is checking video usage.
